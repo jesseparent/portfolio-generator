@@ -1,0 +1,26 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Generate a Portfolio page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesseparent/portfolio-generator.git"
+  },
+  "keywords": [
+    "portfolio",
+    "generator"
+  ],
+  "author": "Jesse Parent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseparent/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/jesseparent/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
